@@ -1,0 +1,6 @@
+{
+  "name": "Gavin Fitness Dashboard",
+  "description": "Comprehensive workout and personal fitness dashboard with weight logging, habit streaks, custom workout routines, and interactive progress charts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
